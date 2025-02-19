@@ -63,7 +63,7 @@ npm install
 3. **Set up environment variables**
 
 ```sh
-cp .env.example .env
+cp .env.example .env.development.local
 ```
 
 Fill in the required environment variables:
