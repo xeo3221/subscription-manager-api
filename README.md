@@ -121,6 +121,9 @@ The application uses a MongoDB database with the following main collections:
 - `users`: User profiles
 - `subscriptions`: Subscription details
 
+## 📩 Email Reminder
+![Screenshot 2025-02-19 at 03 30 04](https://github.com/user-attachments/assets/ae21f89f-ae86-43ca-bd6a-48bd4d57df7b)
+
 ## 🔮 Future Improvements
 
 - **Enhanced Notification System**
