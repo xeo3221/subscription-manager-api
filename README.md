@@ -1,5 +1,3 @@
-Sure, here is a GitHub README for your subscription management API project:
-
 # Subscription Manager API
 
 A comprehensive subscription management API built with Express.js, Mongoose, and Nodemailer, designed to streamline the process of managing user subscriptions and sending timely reminders. The API features secure user authentication using JWT, robust error handling, and middleware for rate limiting and bot detection via Arcjet. It integrates with Upstash for workflow automation, ensuring that subscription reminders are sent at the right time. The project is configured for different environments using dotenv and supports email notifications through Nodemailer. Designed for scalability and ease of use, this API provides a solid foundation for managing subscriptions and user interactions efficiently.
