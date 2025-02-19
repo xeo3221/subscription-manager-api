@@ -140,7 +140,3 @@ The application uses a MongoDB database with the following main collections:
 - [JWT](https://jwt.io/)
 - [Upstash](https://upstash.com/)
 - [Arcjet](https://arcjet.com/)
-
-Feel free to customize this README further to fit your project's specific details and requirements.
-
-Similar code found with 2 license types
